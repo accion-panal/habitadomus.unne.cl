@@ -13,21 +13,20 @@ export const mainCarouselData = [
   },
   {
     id: 2,
-    title: 'Habitadomus Propiedades',
-    desc: 'Amplio conocimiento y experiencia en el sector',
-    img: 'https://res.cloudinary.com/dvdb33uyj/image/upload/v1689975597/Projects/unne/img/hero/tramite2.jpg',
+    title: 'Simplifica tus trámites legales con nuestros abogados inmobiliarios',
+    desc: ' Consulta por tu asesoría gratuita',
+    img: 'https://res.cloudinary.com/dvdb33uyj/image/upload/v1690837248/Projects/unne/img/Eres%20corredor/ERES_CORREDOR___SERVICIOS_LEGALES_rhfldh.webp',
   },
   {
     id: 3,
-    title: 'Habitadomus Propiedades',
-    desc: 'Amplio conocimiento y experiencia en el sector',
-    img: 'https://res.cloudinary.com/dvdb33uyj/image/upload/v1689975271/Projects/unne/img/hero/financiamiento2.jpg',
+    title: 'Haz que tus ahorros crezcan un 15%',
+    desc: 'con inversión remate seguro',
+    img: 'https://res.cloudinary.com/dvdb33uyj/image/upload/v1689974575/Projects/unne/img/hero/remate3.jpg',
   },
   {
     id: 4,
-    title: 'Habitadomus Propiedades',
-    desc: 'Amplio conocimiento y experiencia en el sector',
-    img: 'https://res.cloudinary.com/dvdb33uyj/image/upload/v1689974575/Projects/unne/img/hero/remate3.jpg',
-
+    title: '¡Sácale provecho a tu propiedad!',
+    desc: 'Financiamos, Remodelamos y Vendemos',
+    img: 'https://res.cloudinary.com/dvdb33uyj/image/upload/v1710428421/Projects/unne/img/Paginas%20web/fondo4_mnfey4.webp',
   },
 ];
